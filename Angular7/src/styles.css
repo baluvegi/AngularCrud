@@ -1,0 +1,15 @@
+input.ng-touched.ng-valid{
+    border-color: red;
+}
+
+form.form-group{
+    color: aquamarine;
+}
+
+.validation-error{
+    color: red;
+}
+
+button.btn.btn-lg.btn-block{
+    background-color: lightskyblue;
+}
